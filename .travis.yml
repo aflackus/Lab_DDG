@@ -4,4 +4,4 @@ python:
 install:
   - "pip install pytest"
   - "pip install requests"
-script: python -m pytest -v tests_DDG.py
+script: python -m pytest -v test_DDG.py
